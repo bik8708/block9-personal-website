@@ -1,1 +1,2 @@
 # block9-personal-website
+<!-- Block 9: Unit 1 Career Simulation: Personal Website Pt I - I'm creating this project as a part of my career preparation from my Fullstack Academy bootcamp. This is one of my first projects I'm creating -->
